@@ -1,0 +1,11 @@
+{
+  "watson": {
+    "discovery": {
+      "version": "",
+      "apikey": "",
+      "serviceUrl": "https://api.eu-gb.discovery.watson.cloud.ibm.com",
+      "environmentId": "",
+      "collectionId": ""
+    }
+  }
+}
